@@ -10,6 +10,6 @@ A Simple Crypto Currency App built to demonstrate use of Jetpack Compose and MVV
 - [Android Architecture Components](https://developer.android.com/topic/libraries/architecture) - Collection of libraries that help you design robust, testable, and maintainable apps.
   - [Flow](https://kotlinlang.org/docs/reference/coroutines/flow.html) - A flow is an asynchronous version of a Sequence, a type of collection whose values are lazily produced.
   - [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) - Stores UI-related data that isn't destroyed on UI changes. 
-  - [Room](https://developer.android.com/topic/libraries/architecture/room) - SQLite object mapping library.
+  - [Retrofit](https://square.github.io/retrofit/) - A type-safe HTTP client for Android and Java.
   - [Dagger Hilt dependency injection](https://developer.android.com/training/dependency-injection/hilt-android) -Reduce boilerplate and make code easier to maintain.
 - [Material Components for Android](https://github.com/material-components/material-components-android) - Modular and customizable Material Design UI components for Android.
